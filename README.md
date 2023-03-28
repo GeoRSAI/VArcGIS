@@ -7,7 +7,7 @@ A remote sensing image dataset constructed from the ArcGIS World Imagery online 
 
 VArcGIS is a remote sensing image dataset constructed from the ArcGIS World Imagery online image resource using the V-RSIR tool. It covers 38 classes (see Table 1) and contains a total of 59,071 images. Each class contains at least 1500 images with spatial resolutions ranging from 0.07 m to 19.11 m. Figure 1 represents the spatial distribution of the VArcGIS dataset. Without affecting the data accuracy, the team converted the original dataset from RGBA four-channel to RGB three-channel and converted the images from tiff format to jpg format on December 14, 2021, reducing the dataset storage space from 8.08 GB to 2.09 GB.
 
-### Fig. 1 Spatial distribution of images from the VGoogle
+### Fig. 1 Spatial distribution of images from the VArcGIS
 
 ![image-20230328130111559](https://github.com/GeoRSAI/VArcGIS/blob/master/figures/spatial_distribution.jpg)
 
